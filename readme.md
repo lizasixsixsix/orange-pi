@@ -53,3 +53,7 @@ orange@orangepipc:~$ gpio readall
  | BCM | wPi |   Name   | Mode | V | Physical | V | Mode | Name     | wPi | BCM |
  +-----+-----+----------+------+---+-Orange Pi+---+------+----------+-----+-----+
 ```
+
+## Circuit Diagram
+
+[![Orange Pi PC RGB LED Blink Circuit Diagram](https://i.imgur.com/HFhV0aEm.png)](https://i.imgur.com/HFhV0aE.png)
