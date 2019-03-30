@@ -4,6 +4,8 @@
 
 Using [OrangePi.GPIO](https://github.com/Jeremie-C/OrangePi.GPIO) library.
 
+OS &mdash; _Armbian Stretch_ mainline kernel _4.19.20_.
+
 ## Physical Pin to BCM Mapping
 
 From _OrangePi.GPIO\source\common.c_:
