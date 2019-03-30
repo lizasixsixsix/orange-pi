@@ -2,13 +2,13 @@
 
 [![Orange Pi PC RGB LED Blink](https://img.youtube.com/vi/XujmIeqNo7E/0.jpg)](https://www.youtube.com/watch?v=XujmIeqNo7E "Orange Pi PC RGB LED Blink")
 
-Using [OrangePi.GPIO](https://github.com/Jeremie-C/OrangePi.GPIO) library.
+Using [_OrangePi.GPIO_](https://github.com/Jeremie-C/OrangePi.GPIO) library.
 
 OS &mdash; _Armbian Stretch_ mainline kernel _4.19.20_.
 
 ## Physical Pin to BCM Mapping
 
-From _OrangePi.GPIO\source\common.c_:
+From [_OrangePi.GPIO\source\common.c_](https://github.com/Jeremie-C/OrangePi.GPIO/blob/master/source/common.c):
 
 ```c
 /* Physical pin to BCM channel */
@@ -20,7 +20,7 @@ const int phys_To_BCM[41] = {
 
 ## GPIO Info
 
-Obtained using [WiringOP](https://github.com/zhaolei/WiringOP.git) library.
+Obtained using [_WiringOP_](https://github.com/zhaolei/WiringOP.git) library.
 
 ```sh
 orange@orangepipc:~$ gpio readall
