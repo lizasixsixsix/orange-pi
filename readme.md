@@ -1,5 +1,7 @@
 # Orange Pi PC RGB LED Blink
 
+![Orange Pi PC RGB LED Blink](https://i.imgur.com/L9da9up.jpg)
+
 [![Orange Pi PC RGB LED Blink](https://img.youtube.com/vi/XujmIeqNo7E/0.jpg)](https://www.youtube.com/watch?v=XujmIeqNo7E "Orange Pi PC RGB LED Blink")
 
 Using [_OrangePi.GPIO_](https://github.com/Jeremie-C/OrangePi.GPIO) library.
