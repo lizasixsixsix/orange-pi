@@ -1,6 +1,8 @@
-# Orange Pi PC LED Blink
+# Orange Pi PC RGB LED Blink
 
-Uses [OrangePi.GPIO](https://github.com/Jeremie-C/OrangePi.GPIO) library.
+[![Orange Pi PC RGB LED Blink](https://img.youtube.com/vi/XujmIeqNo7E/0.jpg)](https://www.youtube.com/watch?v=XujmIeqNo7E "Orange Pi PC RGB LED Blink")
+
+Using [OrangePi.GPIO](https://github.com/Jeremie-C/OrangePi.GPIO) library.
 
 ## Physical Pin to BCM Mapping
 
